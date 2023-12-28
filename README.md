@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C and python**
 
-- 📫 How to reach me [Mail](radouaneabn@gmail.com)
+- 📫 How to reach me **radouaneabn@gmail.com**
 
 - 📄 These are some of my mini [Projects](https://github.com/RadouaneAbn/Projects)
 
