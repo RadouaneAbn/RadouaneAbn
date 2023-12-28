@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C and python**
 
-- 📫 How to reach me **radouaneabn@gmail.com**
+- 📫 How to reach me [Mail](radouaneabn@gmail.com)
 
 - 📄 These are some of my mini [Projects](https://github.com/RadouaneAbn/Projects)
 
@@ -20,12 +20,11 @@
 <a href="https://linkedin.com/in/radouane-abounouas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radouane-abounouas" height="30" width="40" /></a>
 </p>
 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=radouaneabn&show_icons=true&locale=en&layout=compact" alt="radouaneabn" /></p>
+<p><img align="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=radouaneabn&show_icons=true&locale=en&layout=compact" alt="radouaneabn" /> <img align="center" width="337" src="https://github-readme-stats.vercel.app/api?username=radouaneabn&show_icons=true&locale=en" alt="radouaneabn" /></p>
 
-<p>&nbsp;<img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=radouaneabn&show_icons=true&locale=en" alt="radouaneabn" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=radouaneabn&" alt="radouaneabn" /></p>
+<p><img align="left" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=radouaneabn&" alt="radouaneabn" /></p>
 
